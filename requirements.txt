@@ -43,7 +43,7 @@ jsonschema-specifications==2024.10.1
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1726610684920/work
 jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1727163409502/work
 kiwisolver==1.4.7
-LlmEmbeddingXrVizualization==0.1.8
+LlmEmbeddingXrVizualization==0.1.12
 llvmlite==0.43.0
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
