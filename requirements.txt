@@ -104,7 +104,7 @@ threadpoolctl==3.5.0
 tokenizers==0.20.3
 toml==0.10.2
 tomli==2.2.1
-torch==2.5.1
+torch
 torchaudio==2.5.1
 torchvision==0.20.1
 tornado @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4w03z48br/croot/tornado_1718740114858/work
