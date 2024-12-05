@@ -1,4 +1,4 @@
-altair==5.4.1
+xaltair==5.4.1
 annotated-types==0.7.0
 anyio==4.6.2.post1
 attrs==24.2.0
@@ -88,5 +88,5 @@ tzdata==2024.2
 umap==0.1.1
 umap-learn==0.5.7
 urllib3==2.2.3
-watchdog==6.0.0
+watchdog==5.0.3
 zstandard==0.23.0
